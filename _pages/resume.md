@@ -8,7 +8,7 @@ permalink: http://andylunsford.com/resume/
 published: true
 post_date: 2014-02-17 06:41:30
 ---
-<a href="http://andylunsford.com/wp-content/uploads/2016/08/AndyLunsford_07.27.15.docx.docx">Download Updated Resume</a>
+<a href="http://andylunsford.com/wp-content/uploads/2018/07/AndrewLunsford_7.26.18.pdf">Download Updated Resume</a>
 
 <a href="http://andylunsford.com/wp-content/uploads/2014/02/AndyLunsford_07.27.15.docx_Page_1.png" rel="attachment wp-att-103"><img class="alignnone size-full wp-image-103" src="http://andylunsford.com/wp-content/uploads/2014/02/AndyLunsford_07.27.15.docx_Page_1.png" alt="AndyLunsford_07.27.15.docx_Page_1" width="1700" height="2200" /></a>
 
