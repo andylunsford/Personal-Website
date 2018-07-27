@@ -4,7 +4,7 @@ post_title: About Me
 author: Andy Lunsford
 post_excerpt: ""
 layout: page
-permalink: http://andylunsford.com/my-work/
+permalink: http://andylunsford.com/about-me/
 published: true
 post_date: 2014-02-17 06:41:10
 ---
@@ -12,7 +12,22 @@ post_date: 2014-02-17 06:41:10
 
 I'm a Web Developer, WordPress &amp; Magento Expert, and PPC &amp; Marketing Specialist.
 
-[/et_pb_slide][/et_pb_fullwidth_slider][/et_pb_section][et_pb_section bb_built="1" admin_label="section" fullwidth="off" specialty="off" inner_shadow="off" parallax="off" prev_background_color="#000000" next_background_color="#108bf5"][et_pb_row admin_label="row" background_position="top_left" background_repeat="repeat" background_size="initial"][et_pb_column type="1_3"][et_pb_text admin_label="Services" background_layout="light" text_orientation="left" background_position="top_left" background_repeat="repeat" background_size="initial" _builder_version="3.0.69" border_style="solid"]
+[/et_pb_slide][/et_pb_fullwidth_slider][/et_pb_section][et_pb_section bb_built="1" fullwidth="off" specialty="off" prev_background_color="#000000" next_background_color="#000000"][et_pb_row][et_pb_column type="4_4"][et_pb_text _builder_version="3.11"]
+<h2>About Me</h2>
+I'm Andy Lunsford and I'm excited you've taken the time to view my site!  A few facts about me:
+<ul>
+ 	<li>I love Bourbon.  Favorite bourbon cocktail is a mix of 1.5 oz Woodford &amp; 1.5 oz of Disaronno Amaretto Liquer</li>
+ 	<li>I love craft beers, especially stouts and sours.  I like to track the ones I drink all over the world.</li>
+ 	<li>I'm a bit of a nerd, I love playing board games, and I love playing Magic: The Gathering.</li>
+ 	<li>I love watching soccer, I'm an ardent Columbus Crew supporter (#SaveTheCrew) and FC Cincinnati fan.  For the EPL, I support Arsenal, and FC Bayern Munich is my Bundesliga team.</li>
+ 	<li>I love playing Broomball (even though I'm pretty awful at it).  I am a winger.</li>
+ 	<li>Oh, and I have a crazy goldendoodle puppy, see below:</li>
+</ul>
+<a href="http://andylunsford.com/wp-content/uploads/2018/07/33744683_10155558180708339_7543456906862395392_o.jpg"><img class="size-medium wp-image-26752 aligncenter" src="http://andylunsford.com/wp-content/uploads/2018/07/33744683_10155558180708339_7543456906862395392_o-300x300.jpg" alt="" width="300" height="300" /></a>
+
+If you're curious about some of my specialties and skills I offer freelance as well as to the companies I work for, please continue reading below!
+
+[/et_pb_text][/et_pb_column][/et_pb_row][/et_pb_section][et_pb_section bb_built="1" admin_label="section" fullwidth="off" specialty="off" inner_shadow="off" parallax="off" prev_background_color="#000000" next_background_color="#108bf5"][et_pb_row admin_label="row" background_position="top_left" background_repeat="repeat" background_size="initial"][et_pb_column type="1_3"][et_pb_text admin_label="Services" background_layout="light" text_orientation="left" background_position="top_left" background_repeat="repeat" background_size="initial" _builder_version="3.0.69" border_style="solid"]
 <h1>Services</h1>
 Almost anything you need assistance with in digital marketing, I can assist you with. With a wide skill set that includes SEO to PPC, Web Development to Web Design, &amp; Marketing Strategy to Brand Strategy, I will be able to help you grow your business even more. If I'm not able to help with anything, or you need more specialized help, I also partner with other vendors and freelancers who have additional skills and strengths that I will work with to make your next project a success.
 
