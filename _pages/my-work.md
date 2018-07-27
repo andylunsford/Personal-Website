@@ -4,7 +4,7 @@ post_title: About Me
 author: Andy Lunsford
 post_excerpt: ""
 layout: page
-permalink: http://andylunsford.com/about-me/
+permalink: http://andylunsford.com/my-work/
 published: true
 post_date: 2014-02-17 06:41:10
 ---
