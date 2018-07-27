@@ -50,4 +50,6 @@ You've got a great product, service or business.  Now, how are you going to tel
 
 A strong marketing strategy will help you utilize all tools in the toolbox (SEO, PPC, Design, Branding, etc.) to create a cohesive campaign that tells your story and brings your customers right to your door.
 
+I can help you create a targeted omnichannel strategy that will utilize all of these channels effectively and build a program custom-tailored to your business that will help you grow fast and bring even more customers to your doors.
+
 [/et_pb_toggle][/et_pb_column][/et_pb_row][/et_pb_section][et_pb_section bb_built="1" admin_label="section" fullwidth="on" specialty="off" background_color="#108bf5" inner_shadow="off" parallax="off" prev_background_color="#ffffff"][et_pb_fullwidth_portfolio fullwidth="off" show_title="on" show_date="on" background_layout="dark" auto="on" background_position="top_left" background_repeat="repeat" background_size="initial" _builder_version="3.0.69" title="My Recent Work" include_categories="10,9" zoom_icon_color="#2ea3f2" hover_overlay_color="rgba(255,255,255,0.9)" border_style="solid" /][/et_pb_section]
